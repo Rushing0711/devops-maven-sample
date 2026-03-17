@@ -74,7 +74,6 @@
                     <version>2.1.11.RELEASE</version>
                 </plugin>
             </plugins>
-</build>
         </pluginManagement>
     </build>
 
